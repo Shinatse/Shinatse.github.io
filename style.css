@@ -1,0 +1,35 @@
+#content{
+    color: purple;
+    background-color: gray;
+    border: 3px red solid;
+    margin: 50px auto;
+    width: 400px;
+}
+
+div{
+    background-color: burlywood;
+    text-align: center;
+}
+
+table{
+    margin: 50px auto;
+    background-color: wheat;
+    
+    border-collapse: collapse;
+}
+tr{
+    text-align: left;
+}
+th{
+    text-align: center;
+    color: orange;
+    background-color: gray;
+}
+
+.blue{
+    background-color: aquamarine;
+}
+
+th,td{
+    border: 1px black solid;
+}
